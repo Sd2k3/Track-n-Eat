@@ -1,5 +1,5 @@
 # Track-n-Eat
-The main objective of Track-n-Eat is to detect the amount of harmful chemicals (pesticides) present in fruits and vegetables. 
+The main objective of Track-n-Eat is to detect the amount of harmful chemicals (pesticides) present in fruits and vegetables.
 
 ## Tech Stacks
 1. Arduino Uno
@@ -19,6 +19,11 @@ Contributions are always welcome! Ifyou have any idea, suggestions,fixes, feel f
 ## Note
 See the issues first, if you can solve those then work on them first and then work on your ideas.
 If you attach screenshots of the output after your changes it will help us in reviewing the the PR and hence faster acceptance of your PR.
+
+## Issues
+Contributions, issues and feature requests are welcome! Feel free to check issues page. You can also take a look at the contributing guide.
+
+## Documentation
 
 ## Team Members
 1. Swarajit (Project Lead)
