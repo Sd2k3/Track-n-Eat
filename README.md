@@ -40,8 +40,14 @@ Distributed under the MIT License. See LICENSE.md for more information
 5. Aritra
 
 ## Learning Area
+
 ## Difficulties faced
+
+## Code of Conduct
+To check out the "CODE OF CONDUCT" see Code of Conduct.md
+
 ## Conclusion
+
 ## Acknowledgement
 
 
