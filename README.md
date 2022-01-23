@@ -10,12 +10,12 @@ Contributions are always welcome! Ifyou have any idea, suggestions,fixes, feel f
 4. Test your changes
 5. Push your branch and open a PR
 
-## NOTE
+## Note
 See the issues first, if you can solve those then work on them first and then work on your ideas.
 If you attach screenshots of the output after your changes it will help us in reviewing the the PR and hence faster acceptance of your PR.
 
 ## Team Members
-1. Swarajit
+1. Swarajit (Project Lead)
 2. Debagnik
 3. Soubarna
 4. Hritambar
