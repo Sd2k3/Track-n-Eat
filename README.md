@@ -11,6 +11,8 @@ The main objective of Track-n-Eat is to detect the amount of harmful chemicals (
 
 ## Languages and Tools
 
+## Installing the required Libraries
+
 ## Contributing
 Contributions are always welcome! Ifyou have any idea, suggestions,fixes, feel free to contribute. You can do that by going through the following steps:
 
