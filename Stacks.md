@@ -1,4 +1,4 @@
-Arduino Uno
-LCD Display
-Power Circuit
+Arduino Uno,
+LCD Display,
+Power Circuit,
 infrared sensors
