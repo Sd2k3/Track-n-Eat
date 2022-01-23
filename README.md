@@ -29,6 +29,9 @@ Contributions, issues and feature requests are welcome! Feel free to check issue
 
 ## Documentation
 
+## License
+Distributed under the MIT License. See LICENSE.md for more information
+
 ## Team Members
 1. Swarajit (Project Lead)
 2. Debagnik
