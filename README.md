@@ -22,7 +22,7 @@ Contributions are always welcome! Ifyou have any idea, suggestions,fixes, feel f
 
 ## Note
 See the issues first, if you can solve those then work on them first and then work on your ideas.
-If you attach screenshots of the output after your changes it will help us in reviewing the the PR and hence faster acceptance of your PR.
+If you attach screenshots of the output after your changes it will help us in reviewing the the PR and hence faster acceptance of your PR.You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 ## Issues
 Contributions, issues and feature requests are welcome! Feel free to check issues page. You can also take a look at the contributing guide.
