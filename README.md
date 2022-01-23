@@ -3,7 +3,9 @@ The main objective of Track-n-Eat is to detect the amount of harmful chemicals (
 
 ## Tech Stacks
 1. Arduino Uno
-2. 
+2. Lcd Display
+3. Power circuits
+4. Infrared sensors
 
 ## Contributing
 Contributions are always welcome! Ifyou have any idea, suggestions,fixes, feel free to contribute. You can do that by going through the following steps:
