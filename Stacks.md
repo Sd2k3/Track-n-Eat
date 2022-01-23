@@ -1,4 +1,4 @@
-##Stacks Used
+## Stacks Used
 
 1. Arduino Uno
 2. LCD Display
