@@ -41,7 +41,9 @@ Contributions, issues and feature requests are welcome! Feel free to check issue
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## License
-Distributed under the MIT License. See LICENSE.md for more information
+Distributed under the MIT License. See [LICENSE.md][Homepage] for more information
+
+[Homepage]:https://github.com/Sd2k3/Track-n-Eat/blob/main/LICENSE.md
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Team Members
