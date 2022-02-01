@@ -51,7 +51,9 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 
 [Homepage]:https://github.com/Sd2k3
 
-2. Debagnik
+2. [Debagnik][Homepage]
+
+[Homepage]:https://github.com/debagnik02
 
 3. Soubarna
 
