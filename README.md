@@ -71,7 +71,8 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 ## Code of Conduct
 To check out the "CODE OF CONDUCT" see [Code of Conduct.md][Homepage]
 
-[Homepage]:https://github.com/Sd2k3/Track-n-Eat/blob/main/CODE_OF_CONDUCT.md
+[Homepage]: https://github.com/Sd2k3/Track-n-Eat/blob/main/CODE_OF_CONDUCT.md
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Conclusion
