@@ -47,9 +47,7 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Team Members
-1. [Swarajit][Homepage] (Project Lead) 
-
-[Homepage]:https://github.com/Sd2k3
+1. Swarajit (Project Lead)
 
 2. Debagnik
 
@@ -69,10 +67,7 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Code of Conduct
-To check out the "CODE OF CONDUCT" see [Code of Conduct.md][Homepage]
-
-[Homepage]: https://github.com/Sd2k3/Track-n-Eat/blob/main/CODE_OF_CONDUCT.md
-
+To check out the "CODE OF CONDUCT" see Code of Conduct.md
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Conclusion
