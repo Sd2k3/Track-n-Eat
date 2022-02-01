@@ -60,8 +60,7 @@ Distributed under the MIT License. See LICENSE.md for more information
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Code of Conduct
-To check out the "CODE OF CONDUCT" see Code of Conduct.md
-https://github.com/Sd2k3/Track-n-Eat/blob/main/CODE_OF_CONDUCT.md
+To check out the "CODE OF CONDUCT" see [Code of Conduct.md][Homepage]
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Conclusion
