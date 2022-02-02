@@ -19,7 +19,7 @@ The main objective of Track-n-Eat is to detect the amount of harmful chemicals (
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
-Contributions are always welcome! Ifyou have any idea, suggestions,fixes, feel free to contribute. You can do that by going through the following steps:
+Contributions are always welcome! If you have any idea, suggestions,fixes, feel free to contribute. You can do that by going through the following steps:
 
 1. Clone this repo
 2. Create a branch git checkout -b your-feature
