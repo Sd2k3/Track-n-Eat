@@ -6,9 +6,9 @@ The main objective of Track-n-Eat is to detect the amount of harmful chemicals (
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Our Goal">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Tech Stacks">Built With</a></li>
       </ul>
     </li>
     <li>
