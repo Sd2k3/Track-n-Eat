@@ -22,23 +22,7 @@ The main objective of Track-n-Eat is to detect the amount of harmful chemicals (
   </p>
 </div>
 
-<div align="center">
 
-<a href="https://github.com/Sd2k3/Track-n-Eat"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-<a href="https://github.com/Sd2k3/Track-n-Eat"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
-<a href="https://github.com/Sd2k3/Track-n-Eat"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
-<a href="https://github.com/Sd2k3/Track-n-Eat><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/Sd2k3/Track-n-Eat/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
-
-<a href="https://github.com/Sd2k3/Track-n-Eat/graphs/contributors"><img src="https://img.shields.io/github/contributors/Amit366/FunwithPhysics?color=brightgreen"></a>
-<a href="https://github.com/Sd2k3/Track-n-Eat/stargazers"><img src="https://img.shields.io/github/stars/Amit366/FunwithPhysics?color=0059b3"></a>
-<a href="https://github.com/Sd2k3/Track-n-Eat/network/members"><img src="https://img.shields.io/github/forks/Sd2k3/Track-n-Eat"></a>
-<a href="https://github.com/Sd2k3/Track-n-Eat/issues"><img src="https://img.shields.io/github/issues/Amit366/FunwithPhysics?color=0059b3"></a>
-<a href="https://github.com/Sd2k3/Track-n-Eat/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/Tech-N-Science/FunwithScience?color=yellow"></a>
-<a href="https://github.com/Sd2k3/Track-n-Eat/pulls"><img src="https://img.shields.io/github/issues-pr/Amit366/FunwithPhysics?color=brightgreen"></a>
-<a href="https://github.com/Sd2k3/Track-n-Eat"><img src="https://img.shields.io/github/issues-pr-closed-raw/Amit366/FunwithPhysics?color=0059b3"></a>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
