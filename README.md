@@ -6,24 +6,28 @@ The main objective of Track-n-Eat is to detect the amount of harmful chemicals (
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Our Goal">About The Project</a>
+      <a href="#about-the-project">Our Goal</a>
       <ul>
-        <li><a href="#Tech Stacks">Built With</a></li>
+        <li><a href="#built-with">Tech Stacks</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Languages and Tools</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Required Libraries</a></li>
+        <li><a href="#installation">Contributing</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#usage">Note</a></li>
+    <li><a href="#roadmap">Issues</a></li>
+    <li><a href="#contributing">Documentations</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contact">Team Members</a></li>
+    <li><a href="#acknowledgments">Learning Areas</a></li>
+    <li><a href="#acknowledgments">Difficulties faced</a></li>
+    <li><a href="#acknowledgments">Code of Conduct</a></li>
+    <li><a href="#acknowledgments">Conclusion</a></li>
+    <li><a href="#acknowledgments">Acknowledgement</a></li>
   </ol>
 </details>
 
