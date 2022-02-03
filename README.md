@@ -118,7 +118,19 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b>Swarajit Dey </b></sub></a><br /><a href="#design-Swarajit Dey" title="Design"></a></td>
-  </tr>   
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/debagnik02"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b>Debagnik Sen</b></sub></a><br /><a href="#design-Debagnik Sen" title="Design"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b>Swarajit Dey </b></sub></a><br /><a href="#design-Swarajit Dey" title="Design"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b>Swarajit Dey </b></sub></a><br /><a href="#design-Swarajit Dey" title="Design"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b>Swarajit Dey </b></sub></a><br /><a href="#design-Swarajit Dey" title="Design"></a></td>
+  </tr>
 </table>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
