@@ -112,6 +112,12 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 6. Aiindrila
 
 7. Shreyan
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://imgur.com/gallery/NvifQfE" width="100px;" alt=""/><br /><sub><b>Swarajit Dey </b></sub></a><br /><a href="#design-Swarajit Dey" title="Design">🎨</a></td>
+  </tr>   
+</table>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Learning Area
