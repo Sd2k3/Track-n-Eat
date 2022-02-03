@@ -1,6 +1,13 @@
 # Track-n-Eat
 The main objective of Track-n-Eat is to detect the amount of harmful chemicals (pesticides) present in fruits and vegetables.
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="Track'n Eat" alt="Logo" width="400" height="400">
