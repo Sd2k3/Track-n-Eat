@@ -131,7 +131,7 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
   <tr>
     <td align="center"><a href="https://github.com/Aiindrila23"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b> Aiindrila Kole</b></sub></a><br /><a href="#design- Aiindrila Kole" title="Design"></a></td>
   </tr>
-  <td align="center"><a href="https://github.com/Shreyan182"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b> Shreyan</b></sub></a><br /><a href="#design- Shreyan " title="Design"></a></td>
+  <td align="center"><a href="https://github.com/Shreyan182"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b> Shreyan Sarkar</b></sub></a><br /><a href="#design- Shreyan Sarkar " title="Design"></a></td>
   </tr>
 </table>
 <p align="right">(<a href="#top">back to top</a>)</p>
