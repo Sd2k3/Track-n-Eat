@@ -51,13 +51,15 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 
 2. Debagnik
 
-3. Soubarna
+3. Soubarno
 
-4. Hritambar
+4. Hritambhar
 
 5. Aritra
 
 6. Aiindrila
+
+7. Shreyan
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Learning Area
