@@ -3,7 +3,7 @@ The main objective of Track-n-Eat is to detect the amount of harmful chemicals (
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Track'n Eat.jpeg" alt="Logo" width="400" height="400">
+    <img src="https://ibb.co/wNRbvRT" alt="Logo" width="400" height="400">
   </a>
 
   <h3 align="center">TRACK'n EAT</h3>
