@@ -1,6 +1,60 @@
 # Track-n-Eat
 The main objective of Track-n-Eat is to detect the amount of harmful chemicals (pesticides) present in fruits and vegetables.
 
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://i.imgur.com/mPsdaJh.png" alt="Logo" width="500" height="450">
+  </a>
+
+  <h3 align="center">TRACK'n EAT</h3>
+
+  <p align="center">
+  Tagline
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+  </p>
+</div>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">Our Goal</a>
+      <ul>
+        <li><a href="#built-with">Tech Stacks</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Languages and Tools</a>
+      <ul>
+        <li><a href="#prerequisites">Required Libraries</a></li>
+        <li><a href="#installation">Contributing</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Note</a></li>
+    <li><a href="#roadmap">Issues</a></li>
+    <li><a href="#contributing">Documentations</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Team Members</a></li>
+    <li><a href="#acknowledgments">Learning Areas</a></li>
+    <li><a href="#acknowledgments">Difficulties faced</a></li>
+    <li><a href="#acknowledgments">Code of Conduct</a></li>
+    <li><a href="#acknowledgments">Conclusion</a></li>
+    <li><a href="#acknowledgments">Acknowledgement</a></li>
+  </ol>
+</details>
+
+
 
 ## Our Goal
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -60,6 +114,17 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 6. Aiindrila
 
 7. Shreyan
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="1000px;" alt=""/><br /><sub><b>Swarajit Dey </b></sub></a><br /><a href="#design-Swarajit Dey" title="Design"></a></td>
+    <td align="center"><a href="https://github.com/debagnik02"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="1000px;" alt=""/><br /><sub><b>Debagnik Sen</b></sub></a><br /><a href="#design-Debagnik Sen" title="Design"></a></td>
+    <td align="center"><a href="https://github.com/scj2k2"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="1000px;" alt=""/><br /><sub><b>Soubarno Chaterjee </b></sub></a><br /><a href="#design-Soubarno Chatterjee" title="Design"></a></td>
+    <td align="center"><a href="https://github.com/Hritambhar"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="1000px;" alt=""/><br /><sub><b>Hritambhar Ray</b></sub></a><br /><a href="#design-Hritambhar Ray" title="Design"></a></td>
+    <td align="center"><a href="https://github.com/Aiindrila23"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="1000px;" alt=""/><br /><sub><b> Aiindrila Kole</b></sub></a><br /><a href="#design- Aiindrila Kole" title="Design"></a></td>
+  <td align="center"><a href="https://github.com/Shreyan182"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="1000px;" alt=""/><br /><sub><b> Shreyan Sarkar</b></sub></a><br /><a href="#design- Shreyan Sarkar " title="Design"></a></td>
+  </tr>
+</table>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Learning Area
