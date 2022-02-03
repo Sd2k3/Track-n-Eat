@@ -129,7 +129,7 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
     <td align="center"><a href="https://github.com/Hritambhar"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b>Hritambhar Ray</b></sub></a><br /><a href="#design-Hritambhar Ray" title="Design"></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b>Swarajit Dey </b></sub></a><br /><a href="#design-Swarajit Dey" title="Design"></a></td>
+    <td align="center"><a href="https://github.com/Aiindrila23"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="100px;" alt=""/><br /><sub><b> Aiindrila Kole</b></sub></a><br /><a href="#design- Aiindrila Kole" title="Design"></a></td>
   </tr>
 </table>
 <p align="right">(<a href="#top">back to top</a>)</p>
