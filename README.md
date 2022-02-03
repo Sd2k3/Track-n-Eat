@@ -64,6 +64,7 @@ The main objective of Track-n-Eat is to detect the amount of harmful chemicals (
 2. Lcd Display
 3. Power circuits
 4. Infrared sensors
+5. Photo Sensors
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Languages and Tools
