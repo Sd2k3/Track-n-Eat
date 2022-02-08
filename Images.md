@@ -8,7 +8,7 @@
     <br /><sub><b>LCD Display</b></sub></a><br /><a href="#design-LCD Display" title="Design"></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Sd2k3/"><img src="" width="1000px;" alt=""/>
+    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://m.media-amazon.com/images/I/61zMoI2xFGL._SL1108_.jpg" width="1000px;" alt=""/>
     <br /><sub><b>Power Supply Circuit </b></sub></a><br /><a href="#design-Power Supply Circuit" title="Design"></a></td>
   </tr>
   <tr>
