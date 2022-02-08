@@ -76,7 +76,7 @@ The main objective of Track-n-Eat is to detect the amount of harmful chemicals (
     <br /><sub><b>Power Supply Circuit </b></sub></a><br /><a href="#design-Power Supply Circuit" title="Design"></a></td>
     <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://robohaat.com/wp-content/uploads/2017/08/infrared-sensor.png" width="1000px;" alt=""/>
     <br /><sub><b>Infrared Sensors</b></sub></a><br /><a href="#design-Infrared Sensors " title="Design"></a></td>
-    <td align="center"><a href="https://m.media-amazon.com/images/I/417ofv1fVpL._SX342_.jpg" width="1000px;" alt=""/>
+    <td align="center"><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2FLED&psig=AOvVaw3hWRPsv2hRqQ8tFxKVvfgr&ust=1644429365259000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjJqfTW8PUCFQAAAAAdAAAAABAD" width="1000px;" alt=""/>
     <br /><sub><b>LED</b></sub></a><br /><a href="#design-LED" title="Design"></a></td>
   </tr>
 </table>
