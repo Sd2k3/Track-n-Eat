@@ -16,6 +16,11 @@
     <br /><sub><b>Infrared Sensors</b></sub></a><br /><a href="#design-Infrared Sensors " title="Design"></a></td>
   </tr>
   <tr>
+    <tr>
+    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://5.imimg.com/data5/OQ/XO/HJ/SELLER-4584413/electronic-switches-photosensor-ird-381-500x500.jpg" width="1000px;" alt=""/>
+    <br /><sub><b>Photo Sensors</b></sub></a><br /><a href="#design- Photo Sensors " title="Design"></a></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://m.media-amazon.com/images/I/417ofv1fVpL._SX342_.jpg" width="1000px;" alt=""/>
     <br /><sub><b>LED</b></sub></a><br /><a href="#design-LED" title="Design"></a></td>
   </tr>
