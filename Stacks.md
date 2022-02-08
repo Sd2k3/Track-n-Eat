@@ -4,5 +4,5 @@
 2. LCD Display
 3. Power Circuit
 4. Infrared sensors
-5. Light Emitting Diode
-6. 
+5. Photo sensors
+6. Light Emitting Diode 
