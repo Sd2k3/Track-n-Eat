@@ -78,7 +78,7 @@ The main objective of Track-n-Eat is to detect the amount of harmful chemicals (
     <br /><sub><b>Infrared Sensors</b></sub></a><br /><a href="#design-Infrared Sensors " title="Design"></a></td>
     <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://5.imimg.com/data5/OQ/XO/HJ/SELLER-4584413/electronic-switches-photosensor-ird-381-500x500.jpg" width="1000px;" alt=""/>
     <br /><sub><b>Photo Sensors</b></sub></a><br /><a href="#design- Photo Sensors " title="Design"></a></td>
-    <td align="center"><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2FLED&psig=AOvVaw3hWRPsv2hRqQ8tFxKVvfgr&ust=1644429365259000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjJqfTW8PUCFQAAAAAdAAAAABAD" width="1000px;" alt=""/>
+    <td align="center"><a href="https://media.istockphoto.com/vectors/red-led-icon-on-white-background-led-sign-light-emitting-diode-flat-vector-id886019460?s=612x612" width="1000px;" alt=""/>
     <br /><sub><b>LED</b></sub></a><br /><a href="#design-LED" title="Design"></a></td>
   </tr>
 </table>
