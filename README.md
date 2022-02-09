@@ -167,6 +167,8 @@ We would like to express Our special thanks of gratitude to Our respected projec
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Project Lead
-Swarajit Dey
+<html>
+<marquee>Swarajit Dey</marquee>
+</html>
 
 
