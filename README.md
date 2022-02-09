@@ -157,6 +157,8 @@ To check out the "CODE OF CONDUCT" see Code of Conduct.md
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Conclusion
+Thus we have to develop the low cost,easy to use and portable hardware system using the current
+Technology for detecting amount of pesticides and harmul chemicals present on the surface of fruits and vegetables. This can be sufficient for many of the health problem
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Acknowledgement
