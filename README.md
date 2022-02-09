@@ -120,19 +120,19 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Team Members
-1. Swarajit (Project Lead)
+1. Swarajit Dey(Project Lead)
 
-2. Debagnik
+2. Debagnik Sen
 
-3. Soubarno
+3. Soubarno Chatterjee
 
-4. Hritambhar
+4. Hritambhar Ray
 
-5. Aritra
+5. Aritra Ray
 
-6. Aiindrila
+6. Aiindrila Kole
 
-7. Shreyan
+7. Shreyan Sarkar
 
 <table>
   <tr>
@@ -165,5 +165,8 @@ Technology for detecting amount of pesticides and harmul chemicals present on th
 ## Acknowledgement
 We would like to express Our special thanks of gratitude to Our respected project guide sir Mr.______for giving us such a golden opportunity to do this project which also helped us in doing a lot of research work and we came to know about so many new things. We are really blessed and thankful to work under him. Secondly we would like to thank our college seniors and fellow friends also who helped us a lot in finalizing this project within the limited time frame.
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+# Project Lead
+## Swarajit Dey
 
 
