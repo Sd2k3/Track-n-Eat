@@ -56,11 +56,11 @@
 
 
 
-## Our Goal
+# Our Goal
 ## The Track'N Eat Project is an initiative to explore low-cost solutions to healthcare problems in the food industry. Usage of colouring chemicals to enhance the appearance of fruits and vegetables has been a huge issue since the past decade and we seek to create a device that can help us identify the food products that have been subjected to it.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Tech Stacks
+# Tech Stacks
 1. Arduino Uno
 2. Lcd Display
 3. Power circuits
@@ -85,13 +85,13 @@
 </table>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Languages and Tools
+# Languages and Tools
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Installing the required Libraries
+# Installing the required Libraries
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Contributing
+# Contributing
 Contributions are always welcome! If you have any idea, suggestions,fixes, feel free to contribute. You can do that by going through the following steps:
 
 1. Clone this repo
@@ -101,25 +101,25 @@ Contributions are always welcome! If you have any idea, suggestions,fixes, feel 
 5. Push your branch and open a PR
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Note
+# Note
 See the issues first, if you can solve those then work on them first and then work on your ideas.
 If you attach screenshots of the output after your changes it will help us in reviewing the the PR and hence faster acceptance of your PR.You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Issues
+# Issues
 Contributions, issues and feature requests are welcome! Feel free to check issues page. You can also take a look at the contributing guide.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Documentation
+# Documentation
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## License
+# License
 Distributed under the MIT License. See [LICENSE.md][Homepage] for more information
 
 [Homepage]:https://github.com/Sd2k3/Track-n-Eat/blob/main/LICENSE.md
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Team Members
+# Team Members
 1. Swarajit Dey(Project Lead)
 
 2. Debagnik Sen
@@ -147,22 +147,22 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 </table>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Learning Area
+# Learning Area
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Difficulties faced
+# Difficulties faced
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Code of Conduct
+# Code of Conduct
 To check out the "CODE OF CONDUCT" see Code of Conduct.md
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Conclusion
+# Conclusion
 Thus we have to develop the low cost,easy to use and portable hardware system using the current
 Technology for detecting amount of pesticides and harmul chemicals present on the surface of fruits and vegetables. This can be sufficient for many of the health problem
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Acknowledgement
+# Acknowledgement
 We would like to express Our special thanks of gratitude to Our respected project guide sir Mr.______for giving us such a golden opportunity to do this project which also helped us in doing a lot of research work and we came to know about so many new things. We are really blessed and thankful to work under him. Secondly we would like to thank our college seniors and fellow friends also who helped us a lot in finalizing this project within the limited time frame.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
