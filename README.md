@@ -120,7 +120,7 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Team Members
-1. Swarajit Dey(Project Lead)
+1. Swarajit Dey
 
 2. Debagnik Sen
 
