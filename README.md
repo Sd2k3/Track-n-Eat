@@ -6,7 +6,7 @@
     <img src="https://i.imgur.com/mPsdaJh.png" alt="Logo" width="500" height="450">
   </a>
 
-  <h3 align="center">TRACK'n EAT</h3>
+  <h3 align="center"><B> TRACK'n EAT</B></h3>
 
   <p align="center">
   Tagline
