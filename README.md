@@ -163,6 +163,7 @@ Technology for detecting amount of pesticides and harmul chemicals present on th
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Acknowledgement
+We would like to express Our special thanks of gratitude to Our respected project guide sir Mr.                        for giving us such a golden opportunity to do this project which also helped us in doing a lot of research work and we came to know about so many new things. We are really blessed and thankful to work under him. Secondly we would like to thank our college seniors and fellow friends also who helped us a lot in finalizing this project within the limited time frame.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
