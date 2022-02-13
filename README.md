@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.imgur.com/mPsdaJh.png" alt="Logo" width="500" height="450">
+    <img src="https://i.imgur.com/mPsdaJh.p" alt="Logo" width="500" height="450">
   </a>
 
   <h3 align="center"><B> TRACK'n EAT</B></h3>
