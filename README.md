@@ -167,6 +167,7 @@ We would like to express Our special thanks of gratitude to Our respected projec
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Project Lead
-![Swarajit Dey](https://user-images.githubusercontent.com/97842472/156978191-de7149df-65d3-4108-bab8-24b635d19679.jpeg)
+
+Swarajit Dey
 
 
