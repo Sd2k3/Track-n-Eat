@@ -164,6 +164,9 @@ Technology for detecting amount of pesticides and harmul chemicals present on th
 
 # Acknowledgement
 We would like to express Our special thanks of gratitude to Our respected project guide sir Mr.______for giving us such a golden opportunity to do this project which also helped us in doing a lot of research work and we came to know about so many new things. We are really blessed and thankful to work under him. Secondly we would like to thank our college seniors and fellow friends also who helped us a lot in finalizing this project within the limited time frame.
+
+![Thank you](https://user-images.githubusercontent.com/97842472/156978790-ae9772d1-8e63-473e-b54b-90a91d12c5e3.jpg)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Project Lead
