@@ -120,6 +120,7 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Team Members
+![Team](https://user-images.githubusercontent.com/97842472/156980666-5daa1492-54fd-4b90-9796-3ea224f9bf43.jpg)
 1. Swarajit Dey
 
 2. Debagnik Sen
