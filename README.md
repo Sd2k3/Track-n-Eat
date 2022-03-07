@@ -162,7 +162,7 @@ To check out the "CODE OF CONDUCT" see Code of Conduct.md
 
 Thus we have to develop the low cost,easy to use and portable hardware system using the current
 Technology for detecting amount of pesticides and harmul chemicals present on the surface of fruits and vegetables. This can be sufficient for many of the health problem
-![Team](https://user-images.githubusercontent.com/97842472/156980666-5daa1492-54fd-4b90-9796-3ea224f9bf43.jpg)
+![Conclusion](https://user-images.githubusercontent.com/97842472/156981074-e584e1a5-21b2-490b-9877-cc757248ba21.jpg)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Acknowledgement
