@@ -87,6 +87,9 @@
 
 # Languages
 1. C++
+2. Java
+![WhatsApp Image 2022-04-03 at 12 11 26 AM](https://user-images.githubusercontent.com/97842472/161397251-53f55816-8d91-47f8-a7d3-e382772feebd.jpeg)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Installing the required Libraries
