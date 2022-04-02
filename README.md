@@ -185,6 +185,6 @@ We would like to express Our special thanks of gratitude to Our respected projec
 
 # Project Lead
 
-Swarajit Dey
+### Swarajit Dey ###
 
 
