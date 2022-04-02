@@ -107,7 +107,7 @@ Contributions are always welcome! If you have any idea, suggestions,fixes, feel 
 5. Push your branch and open a PR
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-# Note
+#Note
 See the issues first, if you can solve those then work on them first and then work on your ideas.
 If you attach screenshots of the output after your changes it will help us in reviewing the the PR and hence faster acceptance of your PR.You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -155,6 +155,11 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Learning Area
+1. project based learning is quite efficient in this time. 
+2. While doing this project we had to get in depth knowledge about a the working of an arduino and had to write programs in it.
+3. We had a great team and so the project came out really well. 
+4. Doing this project we had come across several new programming language. 
+5. overall we had a great learning experience while doing this project
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Difficulties faced
