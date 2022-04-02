@@ -87,7 +87,6 @@
 
 # Languages
 1. C++
-2. Java
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Installing the required Libraries
