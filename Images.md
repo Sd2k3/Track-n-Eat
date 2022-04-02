@@ -12,7 +12,7 @@
     <br /><sub><b>Power Supply Circuit </b></sub></a><br /><a href="#design-Power Supply Circuit" title="Design"></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://robohaat.com/wp-content/uploads/2017/08/infrared-sensor.png" width="1000px;" alt=""/>
+    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://github.com/debagnik02/Testing/blob/main/images/delta-plc-repair-service-500x500.jpg" width="1000px;" alt=""/>
     <br /><sub><b>Infrared Sensors</b></sub></a><br /><a href="#design-Infrared Sensors " title="Design"></a></td>
   </tr>
   <tr>
