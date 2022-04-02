@@ -137,8 +137,8 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="1000px;alt=""/><br /><sub><b>Swarajit Dey </b></sub></a><br /><a href="#design-Swarajit Dey" title="Design"></a></td>
-    <td align="center"><a href="https://github.com/debagnik02"><img src="https://github.com/debagnik02/Testing/blob/main/images/WhatsApp%20Image%202022-04-02%20at%2020.04.37.jpeg" width="1000px;" alt=""/><br /><sub><b>Debagnik Sen</b></sub></a><br /><a href="#design-Debagnik Sen" title="Design"></a></td>
+    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://github.com/debagnik02/Testing/blob/main/images/WhatsApp%20Image%202022-04-02%20at%2020.04.37.jpeg alt=""/><br /><sub><b>Swarajit Dey </b></sub></a><br /><a href="#design-Swarajit Dey" title="Design"></a></td>
+    <td align="center"><a href="https://github.com/debagnik02">" width="1000px;" alt=""/><br /><sub><b>Debagnik Sen</b></sub></a><br /><a href="#design-Debagnik Sen" title="Design"></a></td>
     <td align="center"><a href="https://github.com/scj2k2"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="1000px;" alt=""/><br /><sub><b>Soubarno Chaterjee </b></sub></a><br /><a href="#design-Soubarno Chatterjee" title="Design"></a></td>
     <td align="center"><a href="https://github.com/Hritambhar"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="1000px;" alt=""/><br /><sub><b>Hritambhar Ray</b></sub></a><br /><a href="#design-Hritambhar Ray" title="Design"></a></td>
     <td align="center"><a href="https://github.c"><img src="https://drive.google.com/file/d/1WTnEhadsXyGzb6eKcqs39I1meFquVf17/view?usp=sharing" width="1000px;" alt=""/><br /><sub><b> Aritra Ray </b></sub></a><br /><a href="#design- Aritra Ray" title="Design"></a></td>
