@@ -139,7 +139,7 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
    <td align="center"><a href="https://github.com/debagnik02"><img src="https://github.com/debagnik02/Testing/blob/main/images/WhatsApp%20Image%202022-04-02%20at%2020.08.22.jpeg" width="1000px;" alt=""/><br /><sub><b>Debagnik Sen</b></sub></a><br /><a href="#design-Debagnik Sen" title="Design"></a></td>
     <td align="center"><a href="https://github.com/scj2k2"><img src="https://github.com/debagnik02/Testing/blob/main/images/soubarno.JPG" width="1000px;" alt=""/><br /><sub><b>Soubarno Chaterjee </b></sub></a><br /><a href="#design-Soubarno Chatterjee" title="Design"></a></td>
     <td align="center"><a href="https://github.com/Hritambhar"><img src=https://github.com/debagnik02/Testing/blob/main/images/WhatsApp%20Image%202022-04-02%20at%2020.06.02.jpeg width="1000px;" alt=""/><br /><sub><b>Hritambhar Ray</b></sub></a><br /><a href="#design-Hritambhar Ray" title="Design"></a></td>
-    <td align="center"><a href="https://github.c"><img src=https://github.com/debagnik02/Testing/blob/main/images/WhatsApp%20Image%202022-04-02%20at%2020.11.33.jpeg width="1000px;" alt=""/><br /><sub><b> Aritra Ray </b></sub></a><br /><a href="#design- Aritra Ray" title="Design"></a></td>
+    <td align="center"><a href="https://github.com/im-still-thinking"><img src=https://github.com/debagnik02/Testing/blob/main/images/WhatsApp%20Image%202022-04-02%20at%2020.11.33.jpeg width="1000px;" alt=""/><br /><sub><b> Aritra Roy </b></sub></a><br /><a href="#design- Aritra Ray" title="Design"></a></td>
     <td align="center"><a href="https://github.com/Aiindrila23"><img src="https://github.com/debagnik02/Testing/blob/main/images/WhatsApp%20Image%202022-02-04%20at%2000.03.40.jpeg" width="1000px;" alt=""/><br /><sub><b> Aiindrila Kole</b></sub></a><br /><a href="#design- Aiindrila Kole" title="Design"></a></td>
   <td align="center"><a href="https://github.com/Shreyan182"><img src="https://github.com/debagnik02/Testing/blob/main/images/shreyan.JPG" width="1000px;" alt=""/><br /><sub><b> Shreyan Sarkar</b></sub></a><br /><a href="#design- Shreyan Sarkar " title="Design"></a></td>
   </tr>
@@ -147,14 +147,16 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Learning Area
-1. project based learning is quite efficient in this time. 
+  
+1. Project based learning is quite efficient in this time. 
 2. While doing this project we had to get in depth knowledge about a the working of an arduino and had to write programs in it.
 3. We had a great team and so the project came out really well. 
-4. Doing this project we had come across several new programming language. 
-5. overall we had a great learning experience while doing this project
+4. Doing this project we had come across C++ for ardruino and HTML for Github. 
+5. Overall we had a great learning experience while doing this project.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Difficulties faced
+  
 1. This was our first time we did a technical project and so we faced several difficulties during this time. 
 2. We had very less prior knowledge about the job in the project. 
 3. In the beginning everyone had different opinions about the project but slowly as we progressed we followed the same path . 
