@@ -80,7 +80,8 @@
     <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://5.imimg.com/data5/OQ/XO/HJ/SELLER-4584413/electronic-switches-photosensor-ird-381-500x500.jpg" width="800px;" alt=""/>
     <br /><sub><b>Photo Sensors</b></sub></a><br /><a href="#design- Photo Sensors " title="Design"></a></td>
     <td align="center"><a href="https://media.istockphoto.com/vectors/red-led-icon-on-white-background-led-sign-light-emitting-diode-flat-vector-id886019460?s=612x612" width="800px;" alt=""/>
-    <br /><sub><b>LED </b></sub></a><br /><a href="#design-LED" title="Design"></a></td>
+     <br /><sub><b>LED</b></sub></a><br /><a href="#design-LED" title="Design"></a></td>
+    <td align="center"><a href="https://github.com/Sd2k3/"><img src="https://github.com/debagnik02/Testing/blob/main/images/09469-1_Infrared_LED_850nm.jpg" width="800px;" alt=""/>
   </tr>
 </table>
 <p align="right">(<a href="#top">back to top</a>)</p>
