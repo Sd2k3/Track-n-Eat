@@ -163,6 +163,10 @@ Distributed under the MIT License. See [LICENSE.md][Homepage] for more informati
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Difficulties faced
+1. This was our first time we did a technical project and so we faced several difficulties during this time. 
+2. We had very less prior knowledge about the job in the project. 
+3. In the beginning everyone had different opinions about the project but slowly as we progressed we followed the same path . 
+4. But having faced those difiiculties we managed to complete the project
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Code of Conduct
