@@ -85,10 +85,16 @@
 </table>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-# Languages and Tools
+# Languages
+1. C++
+2. Java
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Installing the required Libraries
+1. include <iostream>
+2. c++ library
+3. include <math.h>
+4. include <assert.h>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Contributing
